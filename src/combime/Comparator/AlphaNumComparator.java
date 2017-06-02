@@ -21,7 +21,7 @@
 * <p>
 */
 
-package Comparator;
+package combime.Comparator;
 
 import java.util.Comparator;
 

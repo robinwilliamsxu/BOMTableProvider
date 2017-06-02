@@ -1,4 +1,4 @@
-package BOMExampleOne;
+package combime.BOMExampleOne;
 
 /**
  * Copyright 2006 Mentor Graphics Corporation. All Rights Reserved.

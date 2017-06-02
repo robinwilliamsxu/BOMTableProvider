@@ -18,7 +18,7 @@
 
 **/
 
-package RobinSpliceBOMTableProvider;
+package combime.SpliceBOMTable;
 
 import com.mentor.chs.api.IXAttributes;
 import com.mentor.chs.api.IXConnectivityObject;
@@ -28,7 +28,7 @@ import com.mentor.chs.api.workbook.IXSubAssemblyWorkbookContext;
 import com.mentor.chs.api.workbook.data.IXCellData;
 import com.mentor.chs.api.workbook.data.IXTableData;
 import com.mentor.chs.plugin.workbook.provider.IXWorkbookProvider;
-import Comparator.AlphaNumComparator;
+import combime.Comparator.AlphaNumComparator;
 import com.mentor.chs.api.IXAdditionalComponent;
 import com.mentor.chs.api.IXOtherComponent;
 import com.mentor.chs.api.IXSplice;
